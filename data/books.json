@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Java Programming",
+    "author": "James Gosling",
+    "category": "Programming",
+    "year": 2024,
+    "status": "Available"
+  },
+  {
+    "id": 2,
+    "title": "Data Structures",
+    "author": "Robert Lafore",
+    "category": "Computer Science",
+    "year": 2023,
+    "status": "Issued"
+  },
+  {
+    "id": 3,
+    "title": "Web Development Basics",
+    "author": "Alex Johnson",
+    "category": "Web",
+    "year": 2022,
+    "status": "Available"
+  },
+  {
+    "id": 4,
+    "title": "Dr.APJ.Abdhul kalam",
+    "author": "Dr.Br.shafi",
+    "category": "2",
+    "year": 2006,
+    "status": "Available"
+  }
+]

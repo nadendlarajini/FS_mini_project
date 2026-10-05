@@ -1,0 +1,20 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "Beginner-friendly Library Management System built with Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "library",
+    "management",
+    "express",
+    "node"
+  ],
+  "author": "Student",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
